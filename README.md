@@ -1,6 +1,6 @@
 ## Nixalar - Digital Agency One Page Template
 
-We have build this template using `Svelte 3`, `Bootstrap 4`, and 'font-awsome`
+We have build this template using `Svelte 3`, `Bootstrap 4`, and `Font-Awesome`
 
 ### You can look at the template at below URL
 
